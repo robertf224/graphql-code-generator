@@ -7761,10 +7761,10 @@ graphql-config@^4.1.0:
     minimatch "3.0.4"
     string-env-interpolation "1.0.1"
 
-graphql-helix@1.9.1:
-  version "1.9.1"
-  resolved "https://registry.yarnpkg.com/graphql-helix/-/graphql-helix-1.9.1.tgz#7bbb0c78642604ef531649f14800154b83b1fb45"
-  integrity sha512-Of4iMFy+lesAF52RsgTlSUtgAlogWNQt8xp817fcgdJtGNO1bo4RPR4yXD5vZYHbw01Vm2fmaPOCUps5BJJSXw==
+graphql-helix@1.10.2:
+  version "1.10.2"
+  resolved "https://registry.yarnpkg.com/graphql-helix/-/graphql-helix-1.10.2.tgz#88a6d3869277dde2c30c770affc5d9ead27fb7e9"
+  integrity sha512-XSG9X7X0/+luu6sK24fxy3SbSJ8Hx34UlR6acx760p99x8SkIxQhCFWZNdwkM+pwJI63ZREXXjowoH6IcGNPoA==
 
 graphql-jit@0.7.0:
   version "0.7.0"
@@ -12976,12 +12976,12 @@ rxjs@^7.1.0:
   dependencies:
     tslib "~2.1.0"
 
-safe-buffer@5.1.2, safe-buffer@~5.1.0, safe-buffer@~5.1.1:
+safe-buffer@5.1.2, safe-buffer@>=5.1.0, safe-buffer@^5.0.1, safe-buffer@^5.1.0, safe-buffer@^5.1.1, safe-buffer@^5.1.2, safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.1.2.tgz#991ec69d296e0313747d59bdfd2b745c35f8828d"
   integrity sha512-Gd2UZBJDkXlY7GbJxfsE8/nvKkUEU1G38c1siN6QP6a9PT9MmHB8GnpscSmMJSoF8LOIrt8ud/wPtojys4G6+g==
 
-safe-buffer@>=5.1.0, safe-buffer@^5.0.1, safe-buffer@^5.1.0, safe-buffer@^5.1.1, safe-buffer@^5.1.2, safe-buffer@^5.2.0, safe-buffer@~5.2.0:
+safe-buffer@^5.2.0, safe-buffer@~5.2.0:
   version "5.2.1"
   resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.2.1.tgz#1eaf9fa9bdb1fdd4ec75f58f9cdb4e6b7827eec6"
   integrity sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ==
